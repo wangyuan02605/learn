@@ -1,2 +1,3 @@
 MY TO-DO LIST
 1. Practice code
+2. Learn Git
